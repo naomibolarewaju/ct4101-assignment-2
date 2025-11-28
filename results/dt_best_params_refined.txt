@@ -1,0 +1,2 @@
+Best refined parameters: {'max_depth': 12, 'min_samples_split': 5}
+Best refined CV RMSE: 38.492765219909835

@@ -1,0 +1,2 @@
+Best KNN parameters (coarse): {'n_neighbors': 5, 'weights': 'distance'}
+Best CV RMSE (coarse): 39.300094494508095
